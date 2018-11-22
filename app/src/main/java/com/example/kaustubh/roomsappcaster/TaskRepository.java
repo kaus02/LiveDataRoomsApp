@@ -1,7 +1,7 @@
 package com.example.kaustubh.roomsappcaster;
 
 import android.app.Application;
-import android.arch.lifecycle.LiveData;
+import androidx.lifecycle.LiveData;
 import android.os.AsyncTask;
 
 import java.lang.ref.WeakReference;
